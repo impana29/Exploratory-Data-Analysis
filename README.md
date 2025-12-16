@@ -10,7 +10,7 @@ This project simulates a real-world **customer churn analysis** conducted for **
 ## 🗂️ Dataset Summary 
 The dataset contains customer-level information, including:  * **Customer Attributes**: Demographics and account details * **Usage Patterns**: Service subscriptions and engagement * **Billing Information**: Charges and payment behavior * **Target Variable**:    * `Churn' 
 *This project is based on a simulated client dataset for analytical demonstration purposes.*  ---  
-## 🔍 Methodology & Workflow 
+### 🔍 Methodology & Workflow 
 ### 1️⃣ Data Understanding & Preparation  * Identified critical client data required for churn analysis * Cleaned and processed raw data using **Pandas** and **NumPy** * Handled missing values and optimized data types  
 ### 2️⃣ Exploratory Data Analysis (EDA)  * Analyzed churn distribution across customer segments * Explored relationships between churn and key features * Used visualizations to interpret trends and patterns  
 ### 3️⃣ Data Visualization  * Developed clear and insightful visualizations to support trend analysis * Highlighted key churn drivers using charts and plots  Libraries used:  * Matplotlib * Seaborn  
