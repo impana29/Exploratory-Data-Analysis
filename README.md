@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis – XYZ Analytics (Simulation Project) 
 ## Project Overview  
-This project simulates a real-world **customer churn analysis** conducted for **XYZ Analytics**, focusing on identifying key churn drivers and delivering actionable business insights. The analysis demonstrates advanced data analytics, machine learning, and communication skills, from data exploration to executive-level reporting.  The objective is to analyze customer behavior, predict churn risk, and support informed decision-making through data-driven insights.  ---  
+This project simulates a real-world **customer churn analysis** conducted for **XYZ Analytics**, focusing on identifying key churn drivers and delivering actionable business insights. The analysis demonstrates advanced data analytics, machine learning, and communication skills, from data exploration to executive-level reporting.  The objective is to analyze customer behavior, predict churn risk, and support informed decision-making through data-driven insights.   
 ## Project Objectives 
 * Identify essential customer data influencing churn
 * Design a structured and strategic investigation approach
