@@ -6,10 +6,10 @@ This project simulates a real-world customer churn analysis conducted for XYZ An
 * Design a structured and strategic investigation approach
 * Analyze customer trends and patterns using Python
 * Build and optimize a machine learning model for churn prediction
-* Communicate findings through a concise executive summary  ---
+* Communicate findings through a concise executive summary 
 ## Dataset Summary 
 The dataset contains customer-level information, including:  Customer Attributes: Demographics and account details Usage Patterns: Service subscriptions and engagement  Billing Information: Charges and payment behavior Target Variable: `Churn' 
-*This project is based on a simulated client dataset for analytical demonstration purposes.*  ---  
+*This project is based on a simulated client dataset for analytical demonstration purposes.*  
 ### 🔍 Methodology & Workflow 
 #### 1️⃣ Data Understanding & Preparation:  Identified critical client data required for churn analysis. Cleaned and processed raw data using **Pandas** and **NumPy**. Handled missing values and optimized data types  
 #### 2️⃣ Exploratory Data Analysis (EDA):  Analyzed churn distribution across customer segments. Explored relationships between churn and key features. Used visualizations to interpret trends and patterns  
@@ -23,10 +23,10 @@ The dataset contains customer-level information, including:  Customer Attributes
 ## Results  
 * Successfully demonstrated an end-to-end churn analytics workflow
 * Achieved **50% recall** in churn prediction using a Random Forest mode
-* Delivered business-focused insights suitable for executive stakeholders  ---
+* Delivered business-focused insights suitable for executive stakeholders  
 ## Future Improvements  
 * Improve recall through feature engineering and class imbalance handling
 * Experiment with advanced models (XGBoost, LightGBM)
 * Add model explainability (SHAP, feature importance)
-* Deploy the model as an API or dashboard  ---
+* Deploy the model as an API or dashboard  
 
